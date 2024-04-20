@@ -1,0 +1,64 @@
+Default Welcome Intent
+======================
+Text response:  Hello, how can I assist you today? You can ask about job openings, hackathons, or your event participation status.
+                Good day! How may I help you? Feel free to inquire about job eligibility, hackathon details, or your current event progress.
+                Greetings! What information do you need? You can ask about jobs, hackathons, or check your progress in ongoing events.
+
+
+				
+Default Fallback Intent
+========================
+Text Response: I didn't catch that. You can ask about specific jobs, hackathons, or say 'check my event status'. Please specify clearly to help me assist you better.
+
+
+job openings
+available positions
+
+    Text Response = 
+        Certainly, what type of job are you looking for? You can say things like "show me software developer positions" or "are there any design roles available?"
+        Sure, I can help with that. Please specify the job title or the field you're interested in.
+
+Intent= event.eligibility
+==========================================
+Am I eligible for CodeFest?
+What are the requirements for participating in the Designathon?
+
+    Text Response = 
+        To participate in CodeFest, you need at least two years of coding experience. Are you eligible?
+        The Designathon requires a portfolio submission. Have you prepared yours?
+
+Intent= event.progress
+==========================================
+How am I doing in CodeFest?
+Can you update me on my progress in the Designathon?
+
+    Text Response =
+        You're currently ranked 15th in CodeFest. Keep pushing!
+        In the Designathon, you've successfully moved to the second round. Preparing for the next challenge?
+
+Intent= personalized.recommendations
+==========================================
+Based on my performance, what should I try next?
+What other hackathons can I participate in?
+
+    Text Response =
+        Considering your skills, I recommend the upcoming AI Challenge.
+        You might be interested in the next Web Dev Hackathon next month.
+
+Intent= track.registration
+==========================
+check my registration status
+am I registered for the next hackathon?
+
+    Text Response =
+        Yes, you're registered for the next hackathon. It starts on the 25th of this month.
+        You have not registered for the Designathon yet. Would you like to do it now?
+
+Intent= check.event.details
+==========================================
+Tell me more about the AI Challenge.
+What's the schedule for the Designathon?
+
+    Text Response =
+        The AI Challenge focuses on machine learning problems. It's scheduled for next month, from the 10th to the 12th.
+        The Designathon runs from July 5th to July 7th, focusing on user interface design challenges.
