@@ -1,7 +1,6 @@
 # TalentTalk: A NLP based interactive chatbot 🤖💼
 
-Welcome to **TalentTalk**, your intelligent companion in the realm of recruitment and talent acquisition. TalentTalk is designed to bridge the gap between job seekers and their next big opportunity. From hackathons to job openings, TalentTalk is your go-to guide for navigating the professional world.
-
+Welcome to **TalentTalk**, your intelligent companion in the realm of recruitment and talent acquisition. TalentTalk is designed to bridge the gap between job seekers and their next big opportunity, as part of a unstop's detailed solution presentation.
 ## Features ✨
 
 - **Job Inquiries** 🕵️‍♂️: Access a wide range of job listings that match your skillset.
